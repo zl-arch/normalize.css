@@ -1,4 +1,14 @@
 # normalize.css
+基于normalize.css的二次封装，添加的功能：
+
+- [ ] reset.css
+- [ ] atom.css
+- [ ] common.css
+- [ ] variables.css 支持自定义
+- [ ] resetUIComponents.css
+- [ ] 集成预编译工具: stylus / sass
+
+----
 
 <a href="https://github.com/necolas/normalize.css"><img
   src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
