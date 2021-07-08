@@ -2,7 +2,7 @@
 基于normalize.css的二次封装，添加的功能：
 
 - [ ] reset.css
-- [ ] atom.css
+- [ ] atom.css https://www.tailwindcss.cn/
 - [ ] common.css
 - [ ] variables.css 支持自定义
 - [ ] resetUIComponents.css
